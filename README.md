@@ -17,7 +17,7 @@ We use an array where assign the random numbers between 0, 1. We called this arr
 # Time of solving:
 The probability for the found solution to be correct is increased in time. The ideal time for the correct solution is infinite.
 
-#The code explained:
+# The code explained:
 
 We have the array r - with a random numbers between 0, 1 that I mentioned above.
 We know that A * B * r = C * r and we deduce that A * B == C or A * B != C
