@@ -1,7 +1,7 @@
 # Monte-Carlo-Algorithm
 I used the Monte Carlo Algorithm for checking multiplication for two Matrix.
 
-For explaining the Monte Carlo Algorithm I tried to multiplicate two Matrix and after that using the Monte Carlo Algorithm for
+For explaining the Algorithm I tried to multiplicate two Matrix and after that using the Monte Carlo Algorithm for
 checking if the multiplication is correct or not. Same as the following example:
 # A * B = C
 
