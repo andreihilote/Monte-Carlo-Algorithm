@@ -26,6 +26,7 @@ We build an another array called x, where x = B * r
 We build an new array called y, where y = A * x = A * B * r
 
 As result x = C * r
+
 if (x == y) then 
   A * B = C
   
