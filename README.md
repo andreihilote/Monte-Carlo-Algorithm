@@ -12,7 +12,7 @@ The solution is not even correct but could be just after an over infinite time.
 For reducing the number of possibilities for getting a failure solution we amplificate our algorithm.
 
 # Generate the random numbers:
-We use an array where assign the random numbers between 0, 1. We called this array, r which has a role for describing a number generator.
+We use an array where assign the random numbers between 0, 1. We called this array, r which has a role for describing a numbers generator.
 
 # Time of solving:
 The probability for the found solution to be correct is increased in time. The ideal time for the correct solution is infinite.
